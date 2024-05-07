@@ -1,9 +1,9 @@
 ### Note Before Cloning=>
-1.Your Billing Account should be eanble 
+1.Install Google App Engine 
+2.Do configuration using gcloud init
+3.You should create project on google console and save project-id somewhere
 
-2.You should create project on google console
 
-.....
 
 ### To clone,
 Run the commands on terminal :
