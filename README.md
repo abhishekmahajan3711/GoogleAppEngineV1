@@ -1,7 +1,11 @@
 ### Note Before Cloning=>
 1.Install Google App Engine 
+
 2.Do configuration using gcloud init
+
 3.You should create project on google console and save project-id somewhere
+
+4.Then do cloning acoording to given following steps
 
 
 
