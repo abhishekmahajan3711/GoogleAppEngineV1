@@ -22,7 +22,7 @@ git clone https://github.com/abhishekmahajan3711/GoogleAppEngineV1.git
 cd GoogleAppEngineV1
 ```
 
----go in files , go to GoogleAppEngineV1 folder, go to CodeFolder, open app.yaml file, in that file paste your project-id----
+---go in files application, go in home , go to GoogleAppEngineV1 folder, go to CodeFolder, open app.yaml file, in that file paste your project-id----
 
 ```bash
 python2 google_appengine/dev_appserver.py CodeFolder/app.yaml
